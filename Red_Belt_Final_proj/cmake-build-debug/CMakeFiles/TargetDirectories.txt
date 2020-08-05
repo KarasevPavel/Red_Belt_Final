@@ -1,0 +1,3 @@
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir
