@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/pavel/Документы/C++ Projects/Red_Belt_Final/main.cpp" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/main.cpp.o"
-  "/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.cpp" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/parse.cpp.o"
-  "/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.cpp" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o"
+  "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/main.cpp" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/main.cpp.o"
+  "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.cpp" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/parse.cpp.o"
+  "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.cpp" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

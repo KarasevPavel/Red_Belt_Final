@@ -8,9 +8,11 @@ CMakeFiles/Red_Belt_Final.dir/main.cpp.o: ../profile.h
 CMakeFiles/Red_Belt_Final.dir/main.cpp.o: ../search_server.h
 CMakeFiles/Red_Belt_Final.dir/main.cpp.o: ../test_runner.h
 
+CMakeFiles/Red_Belt_Final.dir/parse.cpp.o: ../iterator_range.h
 CMakeFiles/Red_Belt_Final.dir/parse.cpp.o: ../parse.cpp
 CMakeFiles/Red_Belt_Final.dir/parse.cpp.o: ../parse.h
 
+CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o: ../iterator_range.h
 CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o: ../search_server.cpp
 CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o: ../search_server.h
 

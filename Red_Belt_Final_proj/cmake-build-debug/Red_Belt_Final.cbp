@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug"/>
+				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug"/>
+				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug"/>
+				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Red_Belt_Final">
-				<Option output="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/Red_Belt_Final" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug"/>
+				<Option output="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Red_Belt_Final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Red_Belt_Final"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 Red_Belt_Final"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Red_Belt_Final/fast">
-				<Option output="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/Red_Belt_Final" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug"/>
+				<Option output="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Red_Belt_Final" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,38 +75,38 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Red_Belt_Final/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 Red_Belt_Final/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/pavel/Документы/C++\ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/iterator_range.h">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/iterator_range.h">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/main.cpp">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/main.cpp">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.cpp">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.cpp">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.h">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.h">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/profile.h">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/profile.h">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.cpp">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.cpp">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.h">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.h">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/test_runner.h">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/test_runner.h">
 			<Option target="Red_Belt_Final"/>
 		</Unit>
-		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/CMakeLists.txt">
+		<Unit filename="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

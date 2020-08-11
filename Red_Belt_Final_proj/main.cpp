@@ -24,16 +24,15 @@ void TestFunctionality(
   istringstream queries_input(Join('\n', queries));
 
   SearchServer srv;
-    {
-        LOG_DURATION("UpdateDocumentBase_Time:")
+    //{
+    //    LOG_DURATION("UpdateDocumentBase")
         srv.UpdateDocumentBase(docs_input);
-    }
+   // }
   ostringstream queries_output;
-
-    {
-        LOG_DURATION("AddQueriesStream_Time:")
+    //{
+     //   LOG_DURATION("AddQueriesStream")
         srv.AddQueriesStream(queries_input, queries_output);
-    }
+    //}
 
   const string result = queries_output.str();
   const auto lines = SplitBy(Strip(result), '\n');
@@ -210,9 +209,9 @@ void TestBasicSearch() {
 }
 
 void HardTest(){
-    size_t documents_number = 10000;
-    size_t words_in_document_number = 100;
-    size_t queries_count = 20000;
+    size_t documents_number = 50000;
+    size_t words_in_document_number = 50;
+    size_t queries_count = 5000;
     size_t words_in_a_query = 10;
 
     vector<string> documents;
@@ -233,18 +232,19 @@ void HardTest(){
             new_line += ' ';
             new_line += to_string(j);
         }
-        queries.push_back(new_line);
+        queries.push_back(move(new_line));
     }
 
-    vector<string> expected(queries_count/2);
-    for(size_t i = 0; i < queries_count/2; i++){
+    vector<string> expected;
+    expected.reserve(queries_count);
+    for(size_t i = 0; i < queries_count; i++){
         expected.push_back(Join(' ', vector{
-                " 0 1 2 3 4 5 6 7 8 9:",
+                "0 1 2 3 4 5 6 7 8 9:",
                 "{docid: 0, hitcount: 10}",
                 "{docid: 1, hitcount: 10}",
                 "{docid: 2, hitcount: 10}",
                 "{docid: 3, hitcount: 10}",
-                "{docid: 4, hitcount: 10}"
+                "{docid: 4, hitcount: 10}",
         }));
     }
 
@@ -253,10 +253,10 @@ void HardTest(){
 
 int main() {
   TestRunner tr;
-  //(tr, TestSerpFormat);
- //RUN_TEST(tr, TestTop5);
-  //RUN_TEST(tr, TestHitcount);
-  //RUN_TEST(tr, TestRanking);
-  //RUN_TEST(tr, TestBasicSearch);
-  RUN_TEST(tr, HardTest);
+  (tr, TestSerpFormat);
+  RUN_TEST(tr, TestTop5);
+  RUN_TEST(tr, TestHitcount);
+  RUN_TEST(tr, TestRanking);
+  RUN_TEST(tr, TestBasicSearch);
+  //RUN_TEST(tr, HardTest);
 }

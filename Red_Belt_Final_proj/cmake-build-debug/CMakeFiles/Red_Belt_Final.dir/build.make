@@ -63,10 +63,10 @@ RM = /home/pavel/Programs/CLion-2020.1.3/clion-2020.1.3/bin/cmake/linux/bin/cmak
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/pavel/Документы/C++ Projects/Red_Belt_Final"
+CMAKE_SOURCE_DIR = "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Red_Belt_Final.dir/depend.make
@@ -79,42 +79,42 @@ include CMakeFiles/Red_Belt_Final.dir/flags.make
 
 CMakeFiles/Red_Belt_Final.dir/main.cpp.o: CMakeFiles/Red_Belt_Final.dir/flags.make
 CMakeFiles/Red_Belt_Final.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Red_Belt_Final.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Red_Belt_Final.dir/main.cpp.o -c "/home/pavel/Документы/C++ Projects/Red_Belt_Final/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Red_Belt_Final.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Red_Belt_Final.dir/main.cpp.o -c "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/main.cpp"
 
 CMakeFiles/Red_Belt_Final.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Red_Belt_Final.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/pavel/Документы/C++ Projects/Red_Belt_Final/main.cpp" > CMakeFiles/Red_Belt_Final.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/main.cpp" > CMakeFiles/Red_Belt_Final.dir/main.cpp.i
 
 CMakeFiles/Red_Belt_Final.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Red_Belt_Final.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/pavel/Документы/C++ Projects/Red_Belt_Final/main.cpp" -o CMakeFiles/Red_Belt_Final.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/main.cpp" -o CMakeFiles/Red_Belt_Final.dir/main.cpp.s
 
 CMakeFiles/Red_Belt_Final.dir/parse.cpp.o: CMakeFiles/Red_Belt_Final.dir/flags.make
 CMakeFiles/Red_Belt_Final.dir/parse.cpp.o: ../parse.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Red_Belt_Final.dir/parse.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Red_Belt_Final.dir/parse.cpp.o -c "/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Red_Belt_Final.dir/parse.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Red_Belt_Final.dir/parse.cpp.o -c "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.cpp"
 
 CMakeFiles/Red_Belt_Final.dir/parse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Red_Belt_Final.dir/parse.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.cpp" > CMakeFiles/Red_Belt_Final.dir/parse.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.cpp" > CMakeFiles/Red_Belt_Final.dir/parse.cpp.i
 
 CMakeFiles/Red_Belt_Final.dir/parse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Red_Belt_Final.dir/parse.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.cpp" -o CMakeFiles/Red_Belt_Final.dir/parse.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.cpp" -o CMakeFiles/Red_Belt_Final.dir/parse.cpp.s
 
 CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o: CMakeFiles/Red_Belt_Final.dir/flags.make
 CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o: ../search_server.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o -c "/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o -c "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.cpp"
 
 CMakeFiles/Red_Belt_Final.dir/search_server.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Red_Belt_Final.dir/search_server.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.cpp" > CMakeFiles/Red_Belt_Final.dir/search_server.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.cpp" > CMakeFiles/Red_Belt_Final.dir/search_server.cpp.i
 
 CMakeFiles/Red_Belt_Final.dir/search_server.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Red_Belt_Final.dir/search_server.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.cpp" -o CMakeFiles/Red_Belt_Final.dir/search_server.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.cpp" -o CMakeFiles/Red_Belt_Final.dir/search_server.cpp.s
 
 # Object files for target Red_Belt_Final
 Red_Belt_Final_OBJECTS = \
@@ -130,7 +130,7 @@ Red_Belt_Final: CMakeFiles/Red_Belt_Final.dir/parse.cpp.o
 Red_Belt_Final: CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o
 Red_Belt_Final: CMakeFiles/Red_Belt_Final.dir/build.make
 Red_Belt_Final: CMakeFiles/Red_Belt_Final.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Red_Belt_Final"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Red_Belt_Final"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Red_Belt_Final.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -143,6 +143,6 @@ CMakeFiles/Red_Belt_Final.dir/clean:
 .PHONY : CMakeFiles/Red_Belt_Final.dir/clean
 
 CMakeFiles/Red_Belt_Final.dir/depend:
-	cd "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/pavel/Документы/C++ Projects/Red_Belt_Final" "/home/pavel/Документы/C++ Projects/Red_Belt_Final" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug" "/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/cmake-build-debug/CMakeFiles/Red_Belt_Final.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Red_Belt_Final.dir/depend
 

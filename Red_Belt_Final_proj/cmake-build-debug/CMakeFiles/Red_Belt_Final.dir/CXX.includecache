@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/iterator_range.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/iterator_range.h
 algorithm
 -
 
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/main.cpp
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/main.cpp
 search_server.h
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.h
 parse.h
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.h
 test_runner.h
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/test_runner.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/test_runner.h
 algorithm
 -
 iterator
@@ -36,11 +36,11 @@ random
 thread
 -
 profile.h
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/profile.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/profile.h
 
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/parse.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/parse.h
 iterator_range.h
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/iterator_range.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/iterator_range.h
 string_view
 -
 sstream
@@ -48,7 +48,7 @@ sstream
 vector
 -
 
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/profile.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/profile.h
 chrono
 -
 iostream
@@ -56,7 +56,7 @@ iostream
 string
 -
 
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/search_server.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.h
 istream
 -
 ostream
@@ -74,7 +74,7 @@ string
 deque
 -
 
-/home/pavel/Документы/C++ Projects/Red_Belt_Final/test_runner.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/test_runner.h
 sstream
 -
 stdexcept
