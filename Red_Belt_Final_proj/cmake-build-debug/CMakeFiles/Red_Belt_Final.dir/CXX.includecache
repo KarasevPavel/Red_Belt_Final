@@ -56,6 +56,22 @@ iostream
 string
 -
 
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.cpp
+search_server.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.h
+algorithm
+-
+iterator
+-
+sstream
+-
+iostream
+-
+iterator_range.h
+/home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/iterator_range.h
+chrono
+-
+
 /home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/search_server.h
 istream
 -
@@ -72,6 +88,10 @@ map
 string
 -
 deque
+-
+shared_mutex
+-
+future
 -
 
 /home/pavel/Документы/C++ Projects/Red_Belt_Final/Red_Belt_Final_proj/test_runner.h

@@ -1,1 +1,1 @@
-/usr/bin/c++  -O0 -std=c++17 -pthread -g   CMakeFiles/Red_Belt_Final.dir/main.cpp.o CMakeFiles/Red_Belt_Final.dir/parse.cpp.o CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o  -o Red_Belt_Final 
+/usr/bin/c++  -O3 -std=c++17 -pthread -g   CMakeFiles/Red_Belt_Final.dir/main.cpp.o CMakeFiles/Red_Belt_Final.dir/parse.cpp.o CMakeFiles/Red_Belt_Final.dir/search_server.cpp.o  -o Red_Belt_Final 

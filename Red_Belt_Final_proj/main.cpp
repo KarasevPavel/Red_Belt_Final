@@ -24,15 +24,15 @@ void TestFunctionality(
   istringstream queries_input(Join('\n', queries));
 
   SearchServer srv;
-    //{
-    //    LOG_DURATION("UpdateDocumentBase")
+    {
+        LOG_DURATION("UpdateDocumentBase")
         srv.UpdateDocumentBase(docs_input);
-   // }
+    }
   ostringstream queries_output;
-    //{
-     //   LOG_DURATION("AddQueriesStream")
+    {
+       LOG_DURATION("AddQueriesStream")
         srv.AddQueriesStream(queries_input, queries_output);
-    //}
+    }
 
   const string result = queries_output.str();
   const auto lines = SplitBy(Strip(result), '\n');
@@ -211,7 +211,7 @@ void TestBasicSearch() {
 void HardTest(){
     size_t documents_number = 50000;
     size_t words_in_document_number = 50;
-    size_t queries_count = 5000;
+    size_t queries_count = 50000;
     size_t words_in_a_query = 10;
 
     vector<string> documents;
@@ -252,6 +252,7 @@ void HardTest(){
 };
 
 int main() {
+    ios_base :: sync_with_stdio (false);
   TestRunner tr;
   (tr, TestSerpFormat);
   RUN_TEST(tr, TestTop5);
